@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(3): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(3): message : Add macro to precompiled header instead of defining here
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(5,1): message : use of precompiled header
+  InjectAmsi.vcxproj -> C:\Users\luna\Desktop\EffectiveC\InjectAmsi\x64\Debug\InjectAmsi.dll

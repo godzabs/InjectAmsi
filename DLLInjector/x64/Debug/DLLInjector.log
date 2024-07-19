@@ -1,0 +1,15 @@
+﻿  DLLInjector.c
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(20,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'SIZE_T'
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(20,9): message : consider using '%lld' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(20,9): message : consider using '%Id' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(20,9): message : consider using '%I64d' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(24,33): warning C4244: 'function': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(28,9): warning C4477: 'printf' : format string '%ws' requires an argument of type 'unsigned short *', but variadic argument 1 has type 'char *'
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(28,9): message : consider using '%hs' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(28,9): message : consider using '%s' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(28,9): message : consider using '%Ts' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(39,9): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 2 has type 'SIZE_T'
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(39,9): message : consider using '%lld' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(39,9): message : consider using '%Id' in the format string
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\DLLInjector\DLLInjector.c(39,9): message : consider using '%I64d' in the format string
+  DLLInjector.vcxproj -> C:\Users\luna\Desktop\EffectiveC\InjectAmsi\x64\Debug\DLLInjector.exe

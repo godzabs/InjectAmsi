@@ -1,0 +1,12 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(10): warning C4603: '_CRT_SECURE_NO_WARNINGS': macro is not defined or definition is different after precompiled header use
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(10): message : Add macro to precompiled header instead of defining here
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(12,1): message : use of precompiled header
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(154,187): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+C:\Users\luna\Desktop\EffectiveC\InjectAmsi\InjectAmsi\dllmain.cpp(218,39): warning C4477: 'swprintf' : format string '%p' requires an argument of type 'void *', but variadic argument 1 has type 'uintptr_t'
+  Generating code
+  Finished generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 117 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  InjectAmsi.vcxproj -> C:\Users\luna\Desktop\EffectiveC\InjectAmsi\x64\Release\InjectAmsi.dll
